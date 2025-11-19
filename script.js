@@ -1,4 +1,4 @@
-// general info
+// general information
 
 const baseUrl = "https://livejs-api.hexschool.io";
 const apiPath = "suffix97";
